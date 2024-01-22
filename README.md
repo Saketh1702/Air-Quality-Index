@@ -47,4 +47,3 @@ The chosen technologies were based on a deliberate decision-making process:
 - **Data Research:** Proactively researched and found relevant data on Kaggle to address data-related challenges.
 - **Seeking Guidance:** Reached out to seniors and batchmates for insights and guidance, particularly in understanding the project flow.
 
-Feel free to customize this README according to your preferences or provide additional details as needed.
